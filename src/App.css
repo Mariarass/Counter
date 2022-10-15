@@ -1,0 +1,41 @@
+body {
+  background-color: #1f2438;
+
+}
+.App {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-color: #1f2438;
+  height: 100vh;
+
+
+}
+.appContainer{
+  margin-top: 30px;
+  width: 160px;
+  padding: 10px;
+  height: 155px;
+  border: 1px solid #1caae0;
+  border-radius: 5px;
+
+
+}
+
+.buttonContainer{
+border: 1px solid #ff0072;
+  padding: 5px;
+  border-radius: 5px;
+
+
+
+
+}
+
+.tabloContainer{
+  height: 70px;
+
+  margin-bottom: 10px;
+  border: 1px solid #ff0072;
+  border-radius: 5px;
+}
